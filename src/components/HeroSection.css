@@ -23,13 +23,19 @@ video {
   font-size: 100px;
   margin-top: -100px;
 }
+.v{
+  justify-content: left;
+  align-items: left;
+}
 
 .hero-container > p {
   margin-top: 8px;
+  text-align: center;
   color: #fff;
   font-size: 32px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+  
 }
 
 .hero-btns {
@@ -43,7 +49,9 @@ video {
 .fa-play-circle {
   margin-left: 4px;
 }
-
+a{
+  color:#fff;  
+}
 @media screen and (max-width: 960px) {
   .hero-container > h1 {
     font-size: 70px;
@@ -69,4 +77,5 @@ video {
   .btn {
     width: 100%;
   }
+  
 }

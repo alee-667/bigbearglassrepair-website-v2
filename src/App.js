@@ -6,12 +6,15 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import ScrollToTop from './components/ScrollToTop';
+
 
 function App() {
   return (
     <>
       <Router>
         <Navbar />
+        <ScrollToTop/>
         <Switch>
           <Route path='/' exact component={Home} />
           <Route path='/services' component={Services} />
