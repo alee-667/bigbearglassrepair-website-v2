@@ -16,10 +16,10 @@ function App() {
         <Navbar />
         <ScrollToTop/>
         <Switch>
-          <Route path='/bigbearglassrepair-website-v2' exact component={Home} />
-          <Route path='/bigbearglassrepair-website-v2/services' component={Services} />
-          <Route path='/bigbearglassrepair-website-v2/products' component={Products} />
-          <Route path='/bigbearglassrepair-website-v2/sign-up' component={SignUp} />
+          <Route path='/' exact component={Home} />
+          <Route path='/services' component={Services} />
+          <Route path='/products' component={Products} />
+          <Route path='/sign-up' component={SignUp} />
         </Switch>
       </Router>
     </>
