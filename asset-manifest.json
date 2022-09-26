@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bigbearglassrepair-website-v2/static/css/main.f66bc0e9.chunk.css",
-    "main.js": "/bigbearglassrepair-website-v2/static/js/main.dacfa7b1.chunk.js",
-    "main.js.map": "/bigbearglassrepair-website-v2/static/js/main.dacfa7b1.chunk.js.map",
+    "main.js": "/bigbearglassrepair-website-v2/static/js/main.eb6ec6fe.chunk.js",
+    "main.js.map": "/bigbearglassrepair-website-v2/static/js/main.eb6ec6fe.chunk.js.map",
     "runtime-main.js": "/bigbearglassrepair-website-v2/static/js/runtime-main.c81c3364.js",
     "runtime-main.js.map": "/bigbearglassrepair-website-v2/static/js/runtime-main.c81c3364.js.map",
-    "static/js/2.b1bc76b1.chunk.js": "/bigbearglassrepair-website-v2/static/js/2.b1bc76b1.chunk.js",
-    "static/js/2.b1bc76b1.chunk.js.map": "/bigbearglassrepair-website-v2/static/js/2.b1bc76b1.chunk.js.map",
+    "static/js/2.401d4980.chunk.js": "/bigbearglassrepair-website-v2/static/js/2.401d4980.chunk.js",
+    "static/js/2.401d4980.chunk.js.map": "/bigbearglassrepair-website-v2/static/js/2.401d4980.chunk.js.map",
     "index.html": "/bigbearglassrepair-website-v2/index.html",
-    "precache-manifest.55aff6fa55b8ee3512f70b866fadba68.js": "/bigbearglassrepair-website-v2/precache-manifest.55aff6fa55b8ee3512f70b866fadba68.js",
+    "precache-manifest.c1bf7b14cc12f8416e4672c1c534ea34.js": "/bigbearglassrepair-website-v2/precache-manifest.c1bf7b14cc12f8416e4672c1c534ea34.js",
     "service-worker.js": "/bigbearglassrepair-website-v2/service-worker.js",
     "static/css/main.f66bc0e9.chunk.css.map": "/bigbearglassrepair-website-v2/static/css/main.f66bc0e9.chunk.css.map",
-    "static/js/2.b1bc76b1.chunk.js.LICENSE.txt": "/bigbearglassrepair-website-v2/static/js/2.b1bc76b1.chunk.js.LICENSE.txt"
+    "static/js/2.401d4980.chunk.js.LICENSE.txt": "/bigbearglassrepair-website-v2/static/js/2.401d4980.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c81c3364.js",
-    "static/js/2.b1bc76b1.chunk.js",
+    "static/js/2.401d4980.chunk.js",
     "static/css/main.f66bc0e9.chunk.css",
-    "static/js/main.dacfa7b1.chunk.js"
+    "static/js/main.eb6ec6fe.chunk.js"
   ]
 }
