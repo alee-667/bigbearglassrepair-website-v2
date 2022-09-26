@@ -2,19 +2,9 @@ import React, { useState } from "react";
 import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
-import Youtube from "react-youtube";
 import { Link } from 'react-router-dom';
-var url='Vu_bTKMSpbA';
 function HeroSection() {
   //var link=<a href={tel:925-989-6050}>925-989-6050</a>; {url && <Youtube videoId={url}opts={opts}/>} 
-  const opts = {
-    height: "390",
-    width: "200%",
-    playerVars: {
-      autoplay: 0,
-    },
-  };
-
 
   return (
     <div className='hero-container'>
