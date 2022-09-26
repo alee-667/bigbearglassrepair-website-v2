@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46ce639e308f8204036e8067abf52bb7",
+    "revision": "788769452623eaaf84a9e7825f107809",
     "url": "/bigbearglassrepair-website-v2/index.html"
   },
   {
-    "revision": "0c5121b501ac845c8d7f",
-    "url": "/bigbearglassrepair-website-v2/static/css/main.f66bc0e9.chunk.css"
+    "revision": "72d5b84a98fc90ee5b5f",
+    "url": "/bigbearglassrepair-website-v2/static/css/main.9351c716.chunk.css"
   },
   {
     "revision": "875b2863aee304748d0a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bigbearglassrepair-website-v2/static/js/2.401d4980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c5121b501ac845c8d7f",
-    "url": "/bigbearglassrepair-website-v2/static/js/main.a2ba763e.chunk.js"
+    "revision": "72d5b84a98fc90ee5b5f",
+    "url": "/bigbearglassrepair-website-v2/static/js/main.d93bed4a.chunk.js"
   },
   {
     "revision": "6704a05d73d95e0b9abc",
