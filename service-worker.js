@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bigbearglassrepair-website-v2/precache-manifest.c1bf7b14cc12f8416e4672c1c534ea34.js"
+  "/bigbearglassrepair-website-v2/precache-manifest.557391bc2710696fcf79d2f606c7406e.js"
 );
 
 self.addEventListener('message', (event) => {
