@@ -26,7 +26,7 @@ function HeroSection() {
         Sean@BigBearGlassRepair.com
       </a> </p>
       <div className='hero-btns'>
-        <Link to="/services">
+        <Link to="/bigbearglassrepair-website-v2/services">
         <Button
           className='btns'
           buttonStyle='btn--outline'
