@@ -18,7 +18,7 @@ function HeroSection() {
 
   return (
     <div className='hero-container'>
-      <video src='./bigbearglassrepair-website-v2/videos/video-1.mp4' autoPlay loop muted />
+      <video src='https://alee-667.github.io/bigbearglassrepair-website-v2/videos/video-1.mp4' autoPlay loop muted />
       <h1>We come to you!<br></br> Contact us for a FREE estimate!</h1>
       <p><a href="tel:9259896050">
         (925)-989-6050
